@@ -1,8 +1,0 @@
-selenium\WeatherCityPage.class
-service\WeatherApiImpl.class
-common\Utils.class
-model\WeatherResponse$WeatherData.class
-model\WeatherResponse.class
-service\IWeatherApi.class
-runner\TestRunner.class
-selenium\WeatherPage.class
